@@ -10,3 +10,5 @@ FPD trinary: Trinary combination of selected binary combination of vocal feature
 binary_feature_set_FH: Binary combination of selected binary combination of vocal features from FH
 trinary_feature_FH: Trinary combination of selected binary combination of vocal features of FH
 
+** Look in Hypothesis Testing and Feature Selection folder for details of implementation
+
