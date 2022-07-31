@@ -1,5 +1,8 @@
 # Pd-Speech-Work
 
+
+# ML workflow
+[Fig.1 ML workflow of early detection of Parkinsons using speech]()
 saved the svm models in drive.
 
 
