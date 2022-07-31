@@ -1,4 +1,5 @@
 # Pd-Speech-Work
+AI based early detection of Parkinsons from variation in speech recordings.
 
 
 # ML workflow
