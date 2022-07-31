@@ -1,1 +1,1 @@
-Selection of classifiers and parameters. Only for best classifier is saved here.
+Selection of classifiers  parameters. Only for best classifier is saved here.
