@@ -6,5 +6,6 @@ AI based early detection of Parkinsons from variation in speech recordings.
 ![Fig.1 ML workflow of early detection of Parkinsons using speech](https://github.com/Arnab9Codes/Pd-Speech-Work/blob/main/Pd_paper_ml_workflow.PNG)
 
 
+# Reproducibility
 
-
+[saved models](https://github.com/Arnab9Codes/Pd-Speech-Work/tree/main/Saved%20Models)
